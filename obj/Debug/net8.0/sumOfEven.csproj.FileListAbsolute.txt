@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\sumOfEven\bin\Debug\net8.0\sumOfEven.exe
+C:\Users\akemboi\source\repos\sumOfEven\bin\Debug\net8.0\sumOfEven.deps.json
+C:\Users\akemboi\source\repos\sumOfEven\bin\Debug\net8.0\sumOfEven.runtimeconfig.json
+C:\Users\akemboi\source\repos\sumOfEven\bin\Debug\net8.0\sumOfEven.dll
+C:\Users\akemboi\source\repos\sumOfEven\bin\Debug\net8.0\sumOfEven.pdb
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.dll
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\refint\sumOfEven.dll
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.pdb
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\sumOfEven.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\sumOfEven\obj\Debug\net8.0\ref\sumOfEven.dll
